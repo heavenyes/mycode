@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.err.println("Custom perspective!show git!");
+        System.err.println("add something!");
     }
 }
